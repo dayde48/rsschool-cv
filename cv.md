@@ -1,7 +1,7 @@
 # Gamidov Emil
 
 ## Contacts
-Number: +79199328677, Tg: @em1ll
+Number: +79111757255, Tg: @em1ll
 
 ## About me
 I have experience in another field. Now I’m totally dedicated to JavaScript. My aim is getting a position of a Junior Frontend Developer in a short period.
