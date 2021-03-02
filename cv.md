@@ -12,7 +12,6 @@ I have experience in another field. Now I’m totally dedicated to JavaScript. M
   * ES5
   * ES6
 * GIT(basic)
-* React
 
 ## Sample code
 ```
