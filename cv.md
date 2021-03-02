@@ -21,7 +21,7 @@ function palindrom(str) {
  ```
  
  ## Experience
- I don't commercial experience
+ I havent't commercial experience
  
  ## Education
  April 2020 - June 2020 - JavaScipt courses (RIO - Center, Tyumen)
