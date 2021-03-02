@@ -12,6 +12,7 @@ I have experience in another field. Now I’m totally dedicated to JavaScript. M
   * ES5
   * ES6
 * GIT(basic)
+* React
 
 ## Sample code
 ```
@@ -21,7 +22,7 @@ function palindrom(str) {
  ```
  
  ## Experience
- I havent't commercial experience
+ I don't have commercial experience
  
  ## Education
  April 2020 - June 2020 - JavaScipt courses (RIO - Center, Tyumen)
